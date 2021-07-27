@@ -103,7 +103,7 @@ namespace ConsoleApp3
         enum Level
         {
             Bachelors,
-            Masters,
+            Masters
         }
 
         Boolean isPlacementAvailable;
