@@ -105,6 +105,7 @@ namespace ConsoleApp3
             Bachelors,
             Masters,
         }
+        int x;
 
         Boolean isPlacementAvailable;
 
