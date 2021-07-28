@@ -105,7 +105,7 @@ namespace ConsoleApp3
             Bachelors,
             Masters
         }
-
+        int y;
         Boolean isPlacementAvailable;
 
         public DegreeCourse(int id, string name, int duration, int fees, Boolean isPlacementAvailable) : base(id, name, duration, fees)
